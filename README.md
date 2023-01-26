@@ -1,7 +1,7 @@
 ## Hello there 👋
 ### I'm Kenny — A Full-Stack Developer, ML Enthusiast & Lifelong Learner.
 
-I'm a full stack developer based in Jamaica, who works mostly on the front-end where my passion lies. I spend my days coding, studying, improving my skills and tinkering with various technologies. I also have a keen interest in machine learning and interaction design.
+I'm a full-stack developer based in Jamaica who works primarily on the front end where my passion lies. I spend my time coding, studying, improving my skills and tinkering with various technologies. I also have a keen interest in machine learning and interaction design.
 
 - 🔭 I write code.
 - 🤔 I’m looking for help with improving my code quality.
