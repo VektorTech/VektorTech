@@ -10,6 +10,8 @@ I'm a full-stack developer based in Jamaica who works primarily on the front end
 - ⚡ Fun fact: I enjoy a good challenge.
 
 ## Connect with me @
+[kesutherland.com](https://www.kesutherland.com/)
+
 Loading...
 
 ## My Tech Stack
