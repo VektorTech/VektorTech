@@ -7,7 +7,6 @@ I'm a full-stack developer based in Jamaica who works primarily on the front end
 - 🔭 I write code.
 - 🤔 I’m looking for help with improving my code quality.
 - 💬 Ask me about the MERN Stack.
-- 📫 Email me: kennymax18@gmail.com
 - ⚡ Fun fact: I enjoy a good challenge.
 
 ## My Tech Stack
